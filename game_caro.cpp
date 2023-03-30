@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 // man anh 
+// man nah hap
 const int N = 10;
 char symbol = 'X';
 char board[N][N];
